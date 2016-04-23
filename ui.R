@@ -1,5 +1,3 @@
-library(shiny)
-
 shinyUI(fluidPage(
     titlePanel("Measures of Obesity and Metabolic Complications"),
     sidebarPanel(

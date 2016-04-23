@@ -1,5 +1,3 @@
-library(shiny)
-
 bmi <- function(height,weight)
     round((weight/(height^2))*703,1)
 
